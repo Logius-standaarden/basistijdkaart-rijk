@@ -1,0 +1,6 @@
+# Ignore Apple directory meta-files
+.DS_Store
+
+# negeer de door ReSpec gegenereerde bestanden - let op de *pdf mogelijk té generiek is.
+snapshot.html
+*.pdf
