@@ -1,3 +1,12 @@
+## Deze repository is gearchiveerd
+
+Deze repository wordt niet niet meer actief onderhouden.
+* Alle github actions zijn verwijderd voor deze laatste edit
+* Github actions uitgeschakeld
+* Pages zijn verwijderd
+
+---
+
 ## ReSpec template instructies
 
 ReSpec is een tool om html en pdf documenten te genereren op basis van markdown content.
